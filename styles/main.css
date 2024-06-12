@@ -1,6 +1,6 @@
-.page-title {
-  padding-bottom: 30px;
-  line-height: 2cqmin;
+img {
+  width: 800px;
+  height: 300px;
 }
 
 span.material-symbols-outlined {
@@ -12,6 +12,7 @@ body {
   font-family: 'Dongle', 'Times New Roman';
   font-size: 35px;
   color: #3a1aaf;
+  line-height: 30px;
 }
 
 h1 {
@@ -19,10 +20,21 @@ h1 {
   font-family: 'Lacquer', 'Dongle';
   font-size: 100px;
   font-weight: bolder;
+  /* padding: 10px; */
+  line-height: 100px;
 }
 
-h2 {
+h2,
+h3 {
   color: #1e0e3f;
   font-family: 'Lacquer', 'Dongle';
   font-size: 50px;
+  /* padding: 10px; */
+  line-height: 50px;
 }
+
+/* @media (max-width: 400px) {
+  body {
+    background-color: aliceblue;
+  }
+} */
