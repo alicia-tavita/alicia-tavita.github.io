@@ -1,0 +1,28 @@
+.page-title {
+  padding-bottom: 30px;
+  line-height: 2cqmin;
+}
+
+span.material-symbols-outlined {
+  font-size: 50px;
+}
+
+body {
+  background-color: #c53c69;
+  font-family: 'Dongle', 'Times New Roman';
+  font-size: 35px;
+  color: #3a1aaf;
+}
+
+h1 {
+  color: #1e0e3f;
+  font-family: 'Lacquer', 'Dongle';
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+h2 {
+  color: #1e0e3f;
+  font-family: 'Lacquer', 'Dongle';
+  font-size: 50px;
+}
