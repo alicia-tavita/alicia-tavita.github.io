@@ -1,0 +1,22 @@
+Planning:
+
+What is my site's primary purpose?
+It is to function as a blog to showcase in my course
+
+Who is my audience? (is it kids, adults, academics)?
+I'm guessing/thinking my peers/tutors
+
+How will I build my site to support their user experience?
+Have a simple, cohesive, working website
+
+Wireframe - can I draw my site layout on paper? Draw it!
+I can't wireframe it but I'll try it when I get home
+
+What will my site layout look like on a mobile phone? On a tablet? On a desktop?
+It should adapt to the users experience - nothing should break
+
+What other directories do I need (e.g. images)? Where do I put that directory?
+I might have a link linking to another page with my film portfolio
+
+Do I also want the style to be applied to all of my blog entries?
+Maybe, I'll decide later down the line
