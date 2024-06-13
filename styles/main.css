@@ -24,6 +24,10 @@
   height: 300px;
 }
 
+.padding {
+  padding: 20px;
+}
+
 span.material-symbols-outlined {
   font-size: 50px;
 }
