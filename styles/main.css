@@ -8,6 +8,16 @@
   height: 580px;
 }
 
+.sq {
+  width: 200px;
+  height: 240px;
+}
+
+.polar {
+  width: 220px;
+  height: 340px;
+}
+
 .bear {
   max-width: fit-content;
   width: 777px;
