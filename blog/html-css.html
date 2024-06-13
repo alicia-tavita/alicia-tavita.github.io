@@ -23,31 +23,28 @@
   <body>
     <h1>html-css</h1>
     <h3>What are the best practices associated with using classes vs. ids?</h3>
-    <p>When it comes to using classes vs. ids in HTML and CSS, there are some best practices to keep in mind:</p>
+    <p>When using classes & IDs in HTML and CSS, you'll want to learn what the differences are & in what context to use them. Let's learn about some of the best practices we can use!</p>
   <p>
-      <strong>ID'S</strong>
+      <strong>IDs</strong>
       <ul>
-      <li>Identification: IDs should be unique within a page. They are commonly used to identify a specific element on a page.</li>
-      <li>Style Specificity: IDs have higher specificity than classes. This means if styles conflict, the styles defined for an ID will take precedence.</li>
-      <li>JavaScript Interaction: IDs are often used when targeting elements with JavaScript for manipulation or event handling.</li>
+      <li>Identification: IDs should be unique within a page. They are commonly used to identify a specific element. They help with keeping track of your unique components.</li>
+      <li>Style Specificity: IDs are more specific than classes. This means if styles conflict, the ID will overwrite a class.</li>
       </ul>
      <strong>Classes:</strong>
      <ul>
-      <li>Reusability: Classes are reusable and can be applied to multiple elements. They help in styling multiple elements consistently.</li>
-      <li>Grouping Elements: Classes are useful for grouping elements that share common styles or behavior.</li>
-      <li>CSS Specificity: Classes have lower specificity compared to IDs. They can be overridden by more specific selectors.</li>
+      <li>Reusability: Classes are useful because they're reusable and can be applied to many different elements. They help with keeping your designs more consitent and cohesive.</li>
+      <li>CSS Specificity: Classes are less specific than IDs. This means they can be overridden by more specific selectors, like IDs.</li>
       </ul>
      <strong>Best Practices:</strong>
       <ul>
-      <li>Use IDs for unique elements: Reserve IDs for elements that are unique within the page.</li>
-      <li>Prefer Classes for general styling: Use classes to style multiple elements that share common characteristics.</li>
-      <li>Avoid inline styles: Instead of using inline styles with IDs, prefer external CSS files and classes for better maintainability.</li>
-      <li>Keep specificity in mind: Be mindful of CSS specificity when deciding whether to use classes or IDs for styling.</li>
-      <li>Use classes for JavaScript interactions: When targeting elements for scripting, using classes is often more flexible and maintainable.</li>
+        <li>Gauge specificity: When deciding between whether to use class or ID, think about the range of specificity you'll be needing.</li>
+      <li>Be selective: Only use IDs for elements that are unique within a page.</li>
+      <li>Choose Classes for general styling: Use classes to style groups of elements that are similar.</li>
+      <li>Utilize external CSS files: Rememer to use external CSS files instead of using inline styles. This will help you keep everything nice & organized.</li>
       </ul>
-      By following these best practices, you can effectively use classes and IDs in your HTML and CSS to create well-structured and maintainable web pages.</p>
-    </p>
-      <br>
+      </p>
+  
+    <br>
     <br>
       <center><a href="/index.html">Click to go back to the home page</a></center>
   </body>
