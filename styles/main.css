@@ -52,7 +52,7 @@ footer {
   border-radius: 90%;
 }
 
-@media all and (max-width: 200px) {
+@media all and (max-width: 450px) {
   body {
     max-width: fit-content;
     font-size: 20px;
