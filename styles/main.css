@@ -37,7 +37,7 @@
 .padding {
   padding-top: 0px;
   padding-right: 20px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
   padding-left: 20px;
 }
 
@@ -59,7 +59,7 @@ h1 {
   font-family: 'Lacquer', 'Dongle';
   font-size: 100px;
   font-weight: bolder;
-  padding: 20px;
+  padding: 30px;
   border-radius: 90%;
   line-height: 100px;
 }
