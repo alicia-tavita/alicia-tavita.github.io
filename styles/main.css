@@ -1,3 +1,13 @@
+.quest {
+  color: #1e0e3f;
+  border-radius: 20px;
+  font-style: italic;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px;
+}
+
 .lan {
   width: 550px;
   height: 350px;
@@ -25,7 +35,10 @@
 }
 
 .padding {
-  padding: 20px;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
 }
 
 span.material-symbols-outlined {
@@ -35,7 +48,7 @@ span.material-symbols-outlined {
 body {
   background-color: #f7fa99;
   font-family: 'Dongle', 'Times New Roman';
-  font-size: 35px;
+  font-size: 32px;
   color: #3a1aaf;
   line-height: 30px;
 }
@@ -57,7 +70,7 @@ h3 {
   font-family: 'Lacquer', 'Dongle';
   font-size: 50px;
   /* padding: 10px; */
-  line-height: 50px;
+  line-height: 40px;
 }
 
 footer {
