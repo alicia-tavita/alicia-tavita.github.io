@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
 
 .quest {
-  color: #1e0e3f;
+  color: #541ac7;
   border-radius: 20px;
   font-style: italic;
   padding-top: 50px;
@@ -54,11 +54,11 @@ span.material-symbols-outlined {
 }
 
 body {
-  background-color: #f7fa99;
-  font-family: 'Dongle', 'Times New Roman';
-  font-size: 32px;
-  color: #3a1aaf;
-  line-height: 30px;
+  background-color: #dfdafc;
+  font-family: 'LXGW WenKai Mono TC', 'Dongle', 'Times New Roman';
+  font-size: 20px;
+  color: #000000;
+  line-height: 26px;
 }
 
 h1 {
@@ -92,7 +92,7 @@ footer {
     max-width: fit-content;
     font-size: 20px;
     color: #f24780;
-    background-color: aquamarine;
+    background-color: rgb(200, 255, 237);
   }
 
   .lan {
@@ -103,6 +103,10 @@ footer {
   .por {
     width: 260px;
     height: 370px;
+  }
+
+  .quest {
+    color: black;
   }
 
   h1,
