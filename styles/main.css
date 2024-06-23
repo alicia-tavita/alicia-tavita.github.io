@@ -45,6 +45,14 @@
   height: 240px;
 }
 
+.sp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20;
+}
+
 body {
   background-color: #a7d4e4;
   color: #40456a;
