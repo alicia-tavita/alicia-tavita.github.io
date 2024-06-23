@@ -1,17 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=Lacquer&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&display=swap');
 
 .quest {
-  color: #541ac7;
+  color: black;
   border-radius: 20px;
   font-style: italic;
+  text-decoration: underline;
+  text-align: center;
   padding-top: 50px;
-  padding-right: 50px;
+  padding-right: 30px;
   padding-bottom: 0px;
-  padding-left: 50px;
+  padding-left: 30px;
 }
 
+/* photo resizing */
 .lan {
   width: 550px;
   height: 350px;
@@ -28,63 +33,69 @@
 }
 
 .sp {
+  img-align: center;
   width: 350px;
 }
 
-.polar {
-  width: 220px;
-  height: 340px;
-}
-
-.bear {
-  max-width: fit-content;
-  width: 777px;
-  height: 300px;
-}
-
-.padding {
-  padding-top: 0px;
-  padding-right: 20px;
-  padding-bottom: 10px;
-  padding-left: 20px;
-}
-
-span.material-symbols-outlined {
-  font-size: 50px;
-}
-
 body {
-  background-color: #dfdafc;
-  font-family: 'LXGW WenKai Mono TC', 'Dongle', 'Times New Roman';
+  background-color: #a7d4e4;
+  color: #40456a;
+  font-family: 'Judson', serif;
   font-size: 20px;
-  color: #000000;
   line-height: 26px;
+  border-radius: 99px;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
 }
 
 h1 {
-  color: #1e0e3f;
-  background-color: #ffffff;
-  font-family: 'Lacquer', 'Dongle';
-  font-size: 100px;
+  background-color: white;
+  color: #40456a;
+  font-family: 'Archivo Black', 'Dongle';
+  font-size: 60px;
   font-weight: bolder;
-  padding: 30px;
-  border-radius: 90%;
+  text-align: center;
   line-height: 100px;
+  border-radius: 99px;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
 }
 
-h2,
-h3 {
-  color: #1e0e3f;
-  font-family: 'Lacquer', 'Dongle';
-  font-size: 50px;
-  /* padding: 10px; */
+h2 {
+  color: #40456a;
+  font-family: 'Archivo Black', 'Dongle';
+  font-size: 35px;
+  text-align: center;
   line-height: 40px;
+  /* padding-top: 0px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px; */
+}
+
+h3 {
+  color: #40456a;
+  font-family: 'Archivo Black', 'Dongle';
+  font-size: 35px;
+  line-height: 40px;
+  /* padding-top: 0px;
+  padding-right: 50px;
+  padding-bottom: 0px;
+  padding-left: 50px; */
 }
 
 footer {
-  background-color: #ffffff;
-  padding: 40px;
-  border-radius: 90%;
+  text-align: center;
+  background-color: white;
+  border-radius: 100px;
+  padding-top: 25px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  padding-left: 50px;
 }
 
 @media all and (max-width: 450px) {
