@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&display=swap');
 
+.twoList {
+  display: 'inline-block';
+}
+
 .quest {
   color: black;
   border-radius: 20px;
