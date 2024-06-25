@@ -6,10 +6,6 @@
 
 /* general formatting */
 
-.twoList {
-  display: 'inline-block';
-}
-
 .quest {
   color: black;
   border-radius: 20px;
