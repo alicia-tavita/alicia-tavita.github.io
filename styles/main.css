@@ -7,14 +7,16 @@
 /* general formatting */
 
 .quest {
-  color: black;
-  border-radius: 20px;
-  font-style: italic;
+  color: 40456a;
+  border-radius: 10px;
+  /* font-style: italic; */
+  font-family: 'Archivo Black', 'Dongle';
+  /* font-size: larger; */
   text-align: center;
   padding-top: 10px;
-  padding-right: 30px;
+  padding-right: 15px;
   padding-bottom: 10px;
-  padding-left: 30px;
+  padding-left: 15px;
 }
 
 /* borders/grids */
