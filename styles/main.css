@@ -9,14 +9,15 @@
 .quest {
   color: 40456a;
   border-radius: 10px;
-  /* font-style: italic; */
-  font-family: 'Archivo Black', 'Dongle';
-  /* font-size: larger; */
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+  /* font-family: 'Archivo Black', 'Dongle'; */
   text-align: center;
   padding-top: 10px;
-  padding-right: 15px;
+  padding-right: 20px;
   padding-bottom: 10px;
-  padding-left: 15px;
+  padding-left: 20px;
 }
 
 /* borders/grids */
@@ -45,6 +46,13 @@
 .bubble2 {
   border-radius: 25px;
   border: 2px solid white;
+  border-style: dashed;
+  padding: 20px;
+}
+
+.bubble3 {
+  border-radius: 25px;
+  border: 2px solid #a7d4e4;
   border-style: dashed;
   padding: 20px;
 }
